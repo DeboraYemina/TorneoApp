@@ -1,0 +1,6 @@
+@TorneoChallenge_HostAddress = http://localhost:5219
+
+GET {{TorneoChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
